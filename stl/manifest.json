@@ -1,0 +1,168 @@
+{
+  "units": "mm",
+  "status": "fit-and-assembly prototype; not load validated",
+  "parts": [
+    {
+      "part": "toe_long",
+      "file": "stl/toe_long.stl",
+      "bytes": 137484,
+      "sha256": "50b420bf668dde79f96a565bf381b620828c24cc17992a73ffc8aff0147e20bd"
+    },
+    {
+      "part": "heel_long",
+      "file": "stl/heel_long.stl",
+      "bytes": 137484,
+      "sha256": "d14ca50d6306eb172881a358beb4b096081e360c6f1529e172b4f46d770d105c"
+    },
+    {
+      "part": "toe_short",
+      "file": "stl/toe_short.stl",
+      "bytes": 137484,
+      "sha256": "8149ae06c73ef84f7f302716e75eb5738220f702c65a8f50136818147a855116"
+    },
+    {
+      "part": "heel_short",
+      "file": "stl/heel_short.stl",
+      "bytes": 137484,
+      "sha256": "0c05c94a93f7073d1c7a61156841ca100225dea62c0a97ff668c866836d9848b"
+    },
+    {
+      "part": "center20",
+      "file": "stl/center20.stl",
+      "bytes": 74484,
+      "sha256": "a4c25cd79e0e09c553f3bda286effc1b1214f731d0e5598f436d99114a46ddf2"
+    },
+    {
+      "part": "center40",
+      "file": "stl/center40.stl",
+      "bytes": 74484,
+      "sha256": "9d2ecf647d4a7c418d050ac7a1f02c36cd5ee0e11576c7881d4fe6bc540df3e5"
+    },
+    {
+      "part": "center60",
+      "file": "stl/center60.stl",
+      "bytes": 74484,
+      "sha256": "148dca56c1156b2bdf0879ab070beecfd207df4d8bd48edb4240d6b6082b631d"
+    },
+    {
+      "part": "center80",
+      "file": "stl/center80.stl",
+      "bytes": 74484,
+      "sha256": "438d3632a056d5ee94f4b1c7a66e6973c226e3f2725949ee9812c3b584fdcd0e"
+    },
+    {
+      "part": "center100",
+      "file": "stl/center100.stl",
+      "bytes": 74484,
+      "sha256": "e2e17c6c8519de3b628c66b2bbb80c9648e3440cec7c55c742d4bb5b631ffd24"
+    },
+    {
+      "part": "liner_long",
+      "file": "stl/liner_long.stl",
+      "bytes": 84084,
+      "sha256": "8cd435bf04f0842b17892f7134b60238df5272d6f57eb4cc3e59e28c80e5d9da"
+    },
+    {
+      "part": "liner_short",
+      "file": "stl/liner_short.stl",
+      "bytes": 54684,
+      "sha256": "7ab7e6dfaacbb56fc98de6c1040a56e549bbd87114faaea9448e0db873780602"
+    },
+    {
+      "part": "liner20",
+      "file": "stl/liner20.stl",
+      "bytes": 25284,
+      "sha256": "07803c6e62b553c4eee27bd5f1645be6a0afd5b34cc8792c04e6e74c8da5a5b1"
+    },
+    {
+      "part": "liner40",
+      "file": "stl/liner40.stl",
+      "bytes": 35084,
+      "sha256": "752ff6f71f9bfb26a5edd0d57ac2fd94ac5698e01adab238478e62fca740af59"
+    },
+    {
+      "part": "liner60",
+      "file": "stl/liner60.stl",
+      "bytes": 44884,
+      "sha256": "6e35a4a13c1a5677abf1d08a75d45bd6095147f33a7214791713811307e13ae8"
+    },
+    {
+      "part": "liner80",
+      "file": "stl/liner80.stl",
+      "bytes": 54684,
+      "sha256": "c1e675099e147798c1c5561629458f2bfbcdf1683afcae4f785bf1fc47c36204"
+    },
+    {
+      "part": "liner100",
+      "file": "stl/liner100.stl",
+      "bytes": 64484,
+      "sha256": "2c5688551b2414fed9565dc0523a66ca6b447bb8196ba9d4a52b4a940c550037"
+    },
+    {
+      "part": "sole_long",
+      "file": "stl/sole_long.stl",
+      "bytes": 62684,
+      "sha256": "e4a32e4345cb121d8ffe61d4e3b9adbfefb99dcb9fa15e2e2a1337b848bf9bee"
+    },
+    {
+      "part": "sole_short",
+      "file": "stl/sole_short.stl",
+      "bytes": 57884,
+      "sha256": "4c2d871942673ccb24b3159dcb8ee8b3610e9fb27cb4059636cd2595a6c0cf1f"
+    },
+    {
+      "part": "sole20",
+      "file": "stl/sole20.stl",
+      "bytes": 32084,
+      "sha256": "352afc9ec606b88544ff510f018152b2db630ab92953f1848c57b80a6e19684c"
+    },
+    {
+      "part": "sole40",
+      "file": "stl/sole40.stl",
+      "bytes": 33684,
+      "sha256": "27152cc011c6b465ee4eaea920c2ea0620907d3c4d598ad41d2003b3d893f592"
+    },
+    {
+      "part": "sole60",
+      "file": "stl/sole60.stl",
+      "bytes": 35284,
+      "sha256": "9e1880c837ee7bcecca8dee4fc277e1ae02d664936a389d002964358b88f3a48"
+    },
+    {
+      "part": "sole80",
+      "file": "stl/sole80.stl",
+      "bytes": 36884,
+      "sha256": "eae1e6bf74b3fe3bd3e1194052cbb1338cc35cae4d16eaf1beb16dd74686d038"
+    },
+    {
+      "part": "sole100",
+      "file": "stl/sole100.stl",
+      "bytes": 38484,
+      "sha256": "5322e0106b2a5284f941f2b862b8707b6fee5e571eaf4bd0a7be301a36e2348d"
+    },
+    {
+      "part": "logo_badge",
+      "file": "stl/logo_badge.stl",
+      "bytes": 75284,
+      "sha256": "9ead56098f2bb43339e66726f3746ab11a76441f5e200b4bcddad29d6617092f"
+    },
+    {
+      "part": "number_badge",
+      "file": "stl/number_badge.stl",
+      "bytes": 99884,
+      "sha256": "d447bfd43ff62f738b9c7f36f38dd2f72db2251e4ce3ff8d9d6ea4a6d8067a0f"
+    },
+    {
+      "part": "fit_coupon",
+      "file": "stl/fit_coupon.stl",
+      "bytes": 74484,
+      "sha256": "5f67686b745c97ae29b7b3b13c22ba818ada64604cd7a7320246d9226e759baf"
+    },
+    {
+      "part": "body_plate_380",
+      "file": "stl/body_plate_380.stl",
+      "bytes": 349284,
+      "sha256": "ed28f1f94bcfb8b2e1933ccf74d398ba8c164d75aa34cc16aef601da33633b53"
+    }
+  ]
+}

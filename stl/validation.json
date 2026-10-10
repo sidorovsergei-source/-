@@ -1,0 +1,574 @@
+{
+  "scope": "Mesh topology, checksum, components, build-volume fit only; no physical/slicer/load test.",
+  "passed": true,
+  "files_checked": 27,
+  "results": [
+    {
+      "file": "stl/toe_long.stl",
+      "dimensions_mm": [
+        150.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 2748,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/heel_long.stl",
+      "dimensions_mm": [
+        150.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 2748,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/toe_short.stl",
+      "dimensions_mm": [
+        90.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 2748,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/heel_short.stl",
+      "dimensions_mm": [
+        90.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 2748,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/center20.stl",
+      "dimensions_mm": [
+        20.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 1488,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/center40.stl",
+      "dimensions_mm": [
+        40.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 1488,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/center60.stl",
+      "dimensions_mm": [
+        60.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 1488,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/center80.stl",
+      "dimensions_mm": [
+        80.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 1488,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/center100.stl",
+      "dimensions_mm": [
+        100.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 1488,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner_long.stl",
+      "dimensions_mm": [
+        139.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 1680,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner_short.stl",
+      "dimensions_mm": [
+        79.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 1092,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner20.stl",
+      "dimensions_mm": [
+        19.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 504,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner40.stl",
+      "dimensions_mm": [
+        39.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 700,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner60.stl",
+      "dimensions_mm": [
+        59.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 896,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner80.stl",
+      "dimensions_mm": [
+        79.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 1092,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/liner100.stl",
+      "dimensions_mm": [
+        99.6,
+        17.6,
+        14.0
+      ],
+      "triangles": 1288,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole_long.stl",
+      "dimensions_mm": [
+        150.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 1252,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole_short.stl",
+      "dimensions_mm": [
+        90.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 1156,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole20.stl",
+      "dimensions_mm": [
+        20.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 640,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole40.stl",
+      "dimensions_mm": [
+        40.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 672,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole60.stl",
+      "dimensions_mm": [
+        60.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 704,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole80.stl",
+      "dimensions_mm": [
+        80.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 736,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/sole100.stl",
+      "dimensions_mm": [
+        100.0,
+        64.0,
+        4.0
+      ],
+      "triangles": 768,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/logo_badge.stl",
+      "dimensions_mm": [
+        40.0,
+        34.0,
+        2.8
+      ],
+      "triangles": 1504,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/number_badge.stl",
+      "dimensions_mm": [
+        32.0,
+        24.0,
+        2.8
+      ],
+      "triangles": 1996,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/fit_coupon.stl",
+      "dimensions_mm": [
+        40.0,
+        64.0,
+        36.0
+      ],
+      "triangles": 1488,
+      "components": 1,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    },
+    {
+      "file": "stl/body_plate_380.stl",
+      "dimensions_mm": [
+        150.0,
+        200.0,
+        36.0
+      ],
+      "triangles": 6984,
+      "components": 3,
+      "checks": {
+        "sha256_matches_manifest": true,
+        "vertices_finite": true,
+        "watertight": true,
+        "consistent_winding": true,
+        "positive_component_volumes": true,
+        "expected_connected_components": true,
+        "flat_base_at_z0": true,
+        "bed_fit_with_5mm_brim": true
+      },
+      "passed": true
+    }
+  ]
+}

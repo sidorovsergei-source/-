@@ -1,0 +1,2 @@
+# Only for mesh validation, not for generating the STL files.
+trimesh==4.9.0
